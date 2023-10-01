@@ -2,8 +2,6 @@
 
 A Reddit clone built with Flutter and Firebase, using Riverpod as the state management solution. This project aims to replicate the core features and functionality of the popular Reddit platform.
 
-![App Screenshot](/imgs/reddit_clone.png)
-
 ## Table of Contents
 
 - [Features](#features)
